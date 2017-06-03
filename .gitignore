@@ -1,3 +1,6 @@
 .DS_Store
 /schematic/*
 !/schematic/*.sch
+!/schematic/*.brd
+!/schematic/*.svg
+
