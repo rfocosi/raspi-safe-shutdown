@@ -3,4 +3,4 @@
 !/schematic/*.sch
 !/schematic/*.brd
 !/schematic/*.svg
-
+!/schematic/*.pdf
